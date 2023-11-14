@@ -353,4 +353,3 @@ export const removeCoverImage = mutation({
     return document;
   },
 });
-// Já copiei isso, sempre que ele adicionar algo aqui nao precisa copiar!!!!!
